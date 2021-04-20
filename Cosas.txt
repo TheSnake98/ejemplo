@@ -1,0 +1,2 @@
+1. Iniciamos entrando en devops
+2. Crear un repositorio en github
