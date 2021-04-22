@@ -2,3 +2,4 @@
 2. Crear un repositorio en github y documentar tambien
 3.Modificarlo para luego documentarlo el repositorio
 4.Agregar archivo al repo local
+5. Diego Alejandro Ramirez
